@@ -7,7 +7,7 @@
 <!-- Light : d4d4d4 -->
 <!-- Dark  : 424242 -->
 
-<view name="system, basic, detailed">
+<view name="system, basic, detailed, video">
 	
 	<image name="logo">
 		<path>./logo.svg</path>
@@ -37,7 +37,7 @@
 	
 </view>
 
-<view name="basic, detailed">
+<view name="basic, detailed, video">
 	
 	<image name="background">
 		<color>808080</color>
@@ -68,7 +68,7 @@
 	
 </view>
 
-<view name="detailed">
+<view name="detailed, video">
 	
 	<image name="npi" extra="true">
 		<color>d4d4d4cc</color>

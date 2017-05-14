@@ -2,10 +2,10 @@
 <formatVersion>3</formatVersion>
 <include>./../theme.xml</include>
 
-<!-- Sega Genesis - 4th gen, August 14th 1989 -->
-<!-- Normal: 226acc -->
-<!-- Light : 79a8e9 -->
-<!-- Dark  : 113463 -->
+<!-- Sony PlayStation Portable - December 12th 2004 -->
+<!-- Normal: 344fa2 -->
+<!-- Light : 8b9edb -->
+<!-- Dark  : 203064 -->
 
 <view name="system, basic, detailed, video">
 	
@@ -14,8 +14,8 @@
 	</image>
 	
 	<helpsystem name="help">
-		<textColor>113463</textColor>
-		<iconColor>113463</iconColor>
+		<textColor>203064</textColor>
+		<iconColor>203064</iconColor>
 	</helpsystem>
 	
 </view>
@@ -31,8 +31,8 @@
 	</image>
 	
 	<text name="year" extra="true">
-		<color>79a8e9</color>
-		<text>4th gen, August 14th 1989</text>
+		<color>8b9edb</color>
+		<text>7th gen, December 12th 2004</text>
 	</text>
 	
 </view>
@@ -40,11 +40,15 @@
 <view name="basic, detailed, video">
 	
 	<image name="background">
-		<color>226acc</color>
+		<color>344fa2</color>
 	</image>
 	
 	<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_developer, md_publisher, md_genre, md_players, md_playcount, md_description">
-		<color>79a8e9</color>
+		<color>8b9edb</color>
+	</text>
+	
+	<text name="md_developer, md_publisher, md_genre, md_players, md_playcount">
+		<color>8b9edb</color>
 	</text>
 		<rating name="md_rating">
 		<filledPath>./star_filled.svg</filledPath>
@@ -52,14 +56,14 @@
 	</rating>
 	
 	<datetime name="md_releasedate, md_lastplayed">
-		<color>79a8e9</color>
+		<color>8b9edb</color>
 	</datetime>
 	
 	<textlist name="gamelist">
-		<selectorColor>79a8e9</selectorColor>
+		<selectorColor>8b9edb</selectorColor>
 		<selectedColor>000000</selectedColor>
-		<primaryColor>79a8e9</primaryColor>
-		<secondaryColor>79a8e9</secondaryColor>
+		<primaryColor>8b9edb</primaryColor>
+		<secondaryColor>8b9edb</secondaryColor>
 	</textlist>
 	
 </view>
@@ -71,7 +75,7 @@
 <view name="detailed, video">
 	
 	<image name="npi" extra="true">
-		<color>79a8e9cc</color>
+		<color>8b9edbcc</color>
 	</image>
 	
 </view>

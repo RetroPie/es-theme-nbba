@@ -1,6 +1,11 @@
 nbba theme
 
 Changes:
+Version 1.3
+- Added theme for Playstation Portable, Neo Geo Pocket Color
+- Added video support
+- Added system carousel support
+- Changed system carousel
 Version 1.2
 - Added theme for 3DO Interactive Multiplayer, Atari Jaguar, Famicom Disk System, Kodi, Magnavox Odyssey 2, Nintendo DS, Nintendo Virtual Boy, Sega Saturn, Sega SG-1000, SNK Neo Geo Pocket
 - Added partial theme for Commodore Amiga, Sinclair ZX Spectrum
