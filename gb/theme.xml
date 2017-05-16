@@ -11,6 +11,7 @@
 	
 	<image name="logo">
 		<path>./logo.svg</path>
+		<color>4D4D4D</color>
 	</image>
 	
 	<helpsystem name="help">
